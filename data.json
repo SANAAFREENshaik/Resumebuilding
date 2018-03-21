@@ -1,0 +1,34 @@
+{
+  "basics":{
+    "photo":"image1.jpg",
+    "name":"sana afreen",
+    "email":"asana1795@gmail.com",
+    "mobile":"8247867665"
+  },
+  "education":[
+    {
+      "course":"B.Tech(Computer science and engineering)",
+      "college":[
+        "G.Pullaiah college of engineering & technology",
+        "2015-2019",
+        "75"
+      ]
+    },
+    {
+      "course":"Intermediate",
+      "college":[
+      "vijayawada Nalanda junior college",
+        "2013-2015",
+        "90"
+      ]
+    },
+    {
+      "course":"SSC",
+      "college":[
+      "Keerthi High School",
+        "2012-2013",
+        "97"
+      ]
+    }
+  ]
+}
